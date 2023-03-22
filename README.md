@@ -57,20 +57,24 @@
 
 <details>
    
-   
-   <summary>CAQ: Is the fish worth getting?</summary>
-    Wouldn't know.
+
 
 </details>
 
 <img class="fit-picture"
      src="https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg"
      alt=BBQ Sauce>
+     
+       <summary>CAQ: Is the fish worth getting?</summary>
+    Wouldn't know.
+     
+   <summary>CAQ: What are the "Scoopy tokens for?"</summary>
+    If you save up 10 you can get a free kids meal or a piece of merchandise.
 
 
 
 
 </body>
 </html>
-![image](https://user-images.githubusercontent.com/128647801/227052063-375047fa-ca21-4015-a93b-f56a0cf6ca9e.png)
+
 
