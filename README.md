@@ -86,6 +86,6 @@
 <p>For further questions email Culvers customer support at:</p>
 
 <ul>
-  <li><a href="[https://example.com](https://www.culvers.com/menu-and-nutrition)">Website</a></li>
+  <li><a href="https://example.com](https://www.culvers.com/menu-and-nutrition)">Website</a></li>
 
 
