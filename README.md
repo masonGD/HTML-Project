@@ -117,5 +117,13 @@
     <li>Lee Ann Beef</li>
     <li>Hun Gri</li>
     <li>Sal Ted Fry</li>
-     <li>Dr. Wheels</li>
+    <li>Dr. Wheels</li>
+    <li>Bubu</li>
+    <li>Father Jo-jo</li>
+    <li>J. Peg</li>
+    <li>Mr./Ms. (insert your last name here)</li>
+    <li>Junk Jr.</li>
+    <li>(insert celebrity name)</li>
+    <li>Agent Ben Burgur</li>
+    
 </ul>
