@@ -9,6 +9,16 @@
 <h1>Non-biased Food Guide for Brookings SD.</h1>
 <p>If you're new to the midwest let me explain why Culvers should become your second home.
 </p>
+  
+  <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Location</h1>
+<p>2229 6th St. Brookings, SD</p>
+
+</body>
+</html>
 
 <p>My order: <p>
 <ul>
