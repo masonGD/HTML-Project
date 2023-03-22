@@ -18,6 +18,10 @@
 
 <h1>Location</h1>
 <p>2229 6th St. Brookings, SD</p>
+     
+<p>Culvers is open daily from 10:30am to 10pm</p>
+
+<p>This location opens at <time datetime="10:30">10:30</time> and you'll be able to utilize the drive through or beatiful in store location untill <time datetime="10pm">10pm</time>.</p>
 
 </body>
 </html>
