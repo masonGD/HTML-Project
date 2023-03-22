@@ -83,6 +83,11 @@
     <summary>What is the best main dish?</summary>
     If you're only feelings peckish the chicken tender basket is the way to go. If you are starving the butter-burger basket is your best friend.
 </details>
+     
+<details>
+    <summary>What is the best side?</summary>
+    The cheese curds from Culvers are amazing, however; these come at an upcharge. If you're on a budget the fries are great as well. The onion rings often leave me with regret and are quite expensive.
+</details>
 
 
 
