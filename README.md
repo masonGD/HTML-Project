@@ -61,11 +61,9 @@
 
 </details>
 
-<div class="warning">
-    <img src="/media/examples/leopard.jpg"
-         alt="BBQ sauce picture">
-    <p>They upcharge for BBQ sauce and Ranch</p>
-</div>
+<img class="fit-picture"
+     src="[/media/cc0-images/grapefruit-slice-332-332.jpg](https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg)"
+     alt=BBQ Sauce>
 
 
 
