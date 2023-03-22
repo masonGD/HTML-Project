@@ -69,9 +69,10 @@
      src="https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg"
      alt=BBQ Sauce>
      
- <details>
-    <summary>What are the "Scoopy tokens for?</summary>
-    If you save up 10 you can either get a free kids meal or a piece of Culvers merchandise (depending on location).
+<details>
+    <summary>What is the wait time like?</summary>
+    Usually 5-10 minutes unless you go during a rush. 
+</details>
      
 <details>
     <summary>What are the "Scoopy tokens for?</summary>
