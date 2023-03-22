@@ -17,10 +17,10 @@
   <li>Mellow Yellow (no ice)</li>
 </ul>
 
-<img https://www.google.com/search?q=free+to+use+butterburger+images&sxsrf=AJOqlzWptQASCMWbZMdV2p-gISDqh6x8CA:1679524072500&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPru7dyvD9AhXJkIkEHe9vBEwQ0pQJegQIBBAC&biw=1368&bih=915&dpr=2#imgrc=KAsC9qfxDLiAtM
      
-    
-    >
+<img class="fit-picture"
+     src="![butterburgers](https://user-images.githubusercontent.com/128647801/227053034-ccb134a6-7939-4479-8ff0-0bc1d471f79f.jpeg)"
+     alt="Butterburger">
 
 
 <h1>THE BIG SECRET</h1>
