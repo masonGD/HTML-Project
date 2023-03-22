@@ -7,7 +7,7 @@
 <body>
 <img class="fit-picture"
      src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
-     alt="Butterburger">
+     alt="Brookings">
 <h1>Non-biased Food Guide for Brookings SD.</h1>
 <p>If you're new to the midwest let me explain why Culvers should become your second home.
 </p>
@@ -31,8 +31,8 @@
 
      
 <img class="fit-picture"
-     src="butterburgers](https://user-images.githubusercontent.com/128647801/227053034-ccb134a6-7939-4479-8ff0-0bc1d471f79f.jpeg"
-     alt="Butterburger">
+     src="https://d1f28u9l1tudce.cloudfront.net/apps/_shared/butterburgers.jpg"
+     alt="Brookings">
 
 
 <h1>THE BIG SECRET</h1>
