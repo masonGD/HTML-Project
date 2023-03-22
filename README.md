@@ -103,92 +103,19 @@
      
      
      
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
-<p>oh... you're this here</p>
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+       
   <h1>My mission for you:</h1>
      <p>Everytime someone goes through the Culver's drive through they ask for their name for the order. One day, I decided to start giving them fake names like Reggie, Prince Hubbert, Duncerk, etc. They're doubted be a couple times but you must stay confident and assert your fake name as reality. </p>
      
-      <p>While this is fun for me I often find myself thinking of more names than I could use in a lifetime of going to Culvers, That's where you come in. When you're feeling brave take one of these names for a spin.</p>
+      <p>While this is fun for me I often find myself thinking of more names than I could use in a lifetime of going to Culvers, That's where you come in. When you're feeling brave take one of these names for a spin (some are Culvers related, some are silly):</p>
+     
+     <p>Possible fake names:</p>
+
+<ul>
+    <li>Cole Vers</li>
+    <li>Patty Burgur</li>
+    <li>Lee Ann Beef</li>
+    <li>Hun Gri</li>
+    <li>Sal Ted Fry</li>
+     <li>Dr. Wheels</li>
+</ul>
