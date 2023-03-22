@@ -64,7 +64,7 @@
 </details>
 
 <img class="fit-picture"
-     src="[/media/cc0-images/grapefruit-slice-332-332.jpg](https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg)"
+     src="https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg"
      alt=BBQ Sauce>
 
 
