@@ -31,7 +31,7 @@
 
      
 <img class="fit-picture"
-     src="![butterburgers](https://user-images.githubusercontent.com/128647801/227053034-ccb134a6-7939-4479-8ff0-0bc1d471f79f.jpeg)"
+     src="butterburgers](https://user-images.githubusercontent.com/128647801/227053034-ccb134a6-7939-4479-8ff0-0bc1d471f79f.jpeg"
      alt="Butterburger">
 
 
