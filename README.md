@@ -78,6 +78,11 @@
     <summary>What are the "Scoopy tokens for?</summary>
     If you save up 10 you can either get a free kids meal or a piece of Culvers merchandise (depending on location).
 </details>
+     
+<details>
+    <summary>What is the best main dish?</summary>
+    If you're only feelings peckish the chicken tender basket is the way to go. If you are starving the butter-burger basket is your best friend.
+</details>
 
 
 
