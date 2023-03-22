@@ -68,8 +68,10 @@
        <summary>CAQ: Is the fish worth getting?</summary>
     Wouldn't know.
      
-   <summary>CAQ: What are the "Scoopy tokens for?"</summary>
-    If you save up 10 you can get a free kids meal or a piece of merchandise.
+<details>
+    <summary>What are the "Scoopy tokens for?</summary>
+    If you save up 10 you can either get a free kids meal or a piece of Culvers merchandise (depending on location).
+</details>
 
 
 
