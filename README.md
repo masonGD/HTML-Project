@@ -5,7 +5,9 @@
 <title>Mason's Culvers Best</title>
 </head>
 <body>
-
+<img class="fit-picture"
+     src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
+     alt="Butterburger">
 <h1>Non-biased Food Guide for Brookings SD.</h1>
 <p>If you're new to the midwest let me explain why Culvers should become your second home.
 </p>
