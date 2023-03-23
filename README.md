@@ -8,6 +8,13 @@
 <img class="fit-picture"
      src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
      alt="Brookings">
+     
+<div class="warning">
+    <img src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
+         alt="Brookings.">
+    <p>An Unbiased Resturaunt guide to Brookings, SD.</p>
+</div>
+
 <h1>Non-biased Food Guide for Brookings SD.</h1>
 <p>If you're new to the midwest let me explain why Culvers should become your second home.
 </p>
