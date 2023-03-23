@@ -5,9 +5,7 @@
 <title>Mason's Culvers Best</title>
 </head>
 <body>
-<img class="fit-picture"
-     src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
-     alt="Brookings">
+
      
 <div class="warning">
     <img src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
