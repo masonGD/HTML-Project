@@ -16,6 +16,8 @@
 <h1>Non-biased Food Guide for Brookings SD.</h1>
 <p>If you're new to the midwest let me explain why Culvers should become your second home.
 </p>
+     
+<p><q cite="https://www.culvers.com/media/commercials#:~:text=%E2%80%9CMore%20Choices%2C%20More%20Smiles%E2%80%9D,matter%20what%20you're%20craving.">More choices, more smiles".</q></p>
   
   <!DOCTYPE html>
 <html>
