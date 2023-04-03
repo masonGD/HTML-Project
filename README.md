@@ -11,7 +11,17 @@
     <img src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
          alt="Brookings.">
     <p>An Unbiased Resturaunt guide to Brookings, SD.</p>
+
 </div>
+     
+<label for="hunger">Hunger level:</label>
+
+<meter id="hunger"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="80">
+    at 80/100
+</meter>
 
 <h1>Non-biased Food Guide for Brookings SD.</h1>
 <p>If you're new to the midwest let me explain why Culvers should become your second home.
@@ -135,7 +145,4 @@
     
 </ul>
      
-<button class="favorite styled"
-        type="button">
-    Push to enlist.
-</button>
+
