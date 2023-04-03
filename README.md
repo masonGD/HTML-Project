@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Mason's Culvers Best</h1>
 </head>
 <body>
 
@@ -10,7 +9,7 @@
 <div class="warning">
     <img src="https://cdn.firespring.com/images/f787640c-a870-4a17-b8c2-1e42a416bb42.jpg"
          alt="Brookings.">
-    <p>An Unbiased Resturaunt guide to Brookings, SD.</p>
+    <h1>An Unbiased Resturaunt guide to Brookings, SD.</h1>
 
 </div>
 
