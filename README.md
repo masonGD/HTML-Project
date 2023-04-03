@@ -74,11 +74,6 @@
 </table>
 
 
-<details>
-   
-
-
-</details>
 
 <img class="fit-picture"
      src="https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg"
