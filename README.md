@@ -85,7 +85,7 @@
 </details>
      
 <details>
-    <summary>What are the "Scoopy tokens for?</summary>
+    <summary>What are the "Scoopy tokens" for?</summary>
     If you save up 10 you can either get a free kids meal or a piece of Culvers merchandise (depending on location).
 </details>
      
