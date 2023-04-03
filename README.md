@@ -13,15 +13,11 @@
     <p>An Unbiased Resturaunt guide to Brookings, SD.</p>
 
 </div>
-     
-<label for="hunger">Hunger level:</label>
 
-<meter id="hunger"
-       min="0" max="100"
-       low="33" high="66" optimum="80"
-       value="90">
-          at 90/100
-</meter>
+<details>
+    <summary>Best resturaunt list</summary>
+    Culvers.
+</details>
      
 
 <h1>Non-biased Food Guide for Brookings SD.</h1>
