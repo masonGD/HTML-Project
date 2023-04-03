@@ -52,7 +52,7 @@
      alt="Brookings">
      
 <figure>
-    <figcaption>Listen to the T-Rex:</figcaption>
+    <figcaption>Moo</figcaption>
     <audio
         controls
         src="cow-moos-76219	0:14				0
