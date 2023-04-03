@@ -39,7 +39,7 @@
 </body>
 </html>
 
-<p>My order: <p>
+<h1>My order: </h1>
 <ul>
   <li>Butterburger basket with cheese (no mustard, no tomato)</li>
   <li>Fries</li>
