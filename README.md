@@ -50,6 +50,21 @@
 <img class="fit-picture"
      src="https://d1f28u9l1tudce.cloudfront.net/apps/_shared/butterburgers.jpg"
      alt="Brookings">
+     
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="cow-moos-76219	0:14				0
+
+">
+            <a href="cow-moos-76219	0:14				0
+
+">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 
 
