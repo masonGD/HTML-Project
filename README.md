@@ -54,19 +54,6 @@
 
 
 
-<fieldset>
-    <legend>What's your favorite entree</legend>
-
-    <input type="radio" id="kraken" name="monster" value="K">
-    <label for="kraken">Cheeseburger</label><br>
-
-    <input type="radio" id="sasquatch" name="monster" value="S">
-    <label for="sasquatch">Chicken Tenders</label><br>
-
-    <input type="radio" id="mothman" name="monster" value="M">
-    <label for="mothman">Fish Sandwich</label>
-</fieldset>
-
 <h1>THE BIG SECRET</h1>
 
 <p>Never... EVER order a double cheese burger. 9/10's they give you 2 patties ragardless. If you ask, they charge you.</p>
