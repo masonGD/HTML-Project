@@ -19,8 +19,8 @@
 <meter id="hunger"
        min="0" max="100"
        low="33" high="66" optimum="80"
-       value="80">
-    at 80/100
+       value="90">
+          at 90/100
 </meter>
      
 
