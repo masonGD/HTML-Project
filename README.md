@@ -135,7 +135,7 @@
     
 </ul>
      
-     <button class="favorite styled"
+<button class="favorite styled"
         type="button">
     Push to enlist.
 </button>
