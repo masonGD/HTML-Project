@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Mason's Culvers Best</title>
+<h1>Mason's Culvers Best</h1>
 </head>
 <body>
 
