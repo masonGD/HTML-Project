@@ -73,8 +73,17 @@
         </tr>
     </tbody>
 </table>
-
-
+     
+<figure>
+    <figcaption>Listen to the Cow:</figcaption>
+    <audio
+        controls
+        src="cow_moos.mp3">
+            <a href="cow_moos.mp3">
+                Download audio
+            </a>
+    </audio>
+</figure>
 
 <img class="fit-picture"
      src="https://pbs.twimg.com/media/Eg2HErSXYAcA8xr.jpg"
