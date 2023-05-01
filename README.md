@@ -1,5 +1,4 @@
-# HTML-Project
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
@@ -24,7 +23,6 @@
      
 <p><q cite="https://www.culvers.com/media/commercials#:~:text=%E2%80%9CMore%20Choices%2C%20More%20Smiles%E2%80%9D,matter%20what%20you're%20craving.">More choices, more smiles".</q></p>
   
-  <!DOCTYPE html>
 <html>
 <body>
 
